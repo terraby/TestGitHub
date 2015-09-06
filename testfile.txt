@@ -1,1 +1,3 @@
-Fuck I think I can actually do this
+Yikes
+
+Let’s learn merge conflicts
